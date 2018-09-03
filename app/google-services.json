@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1092608648438",
+    "firebase_url": "https://projetointegrador-ea7bc.firebaseio.com",
+    "project_id": "projetointegrador-ea7bc",
+    "storage_bucket": "projetointegrador-ea7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092608648438:android:c31093a37aeed3cc",
+        "android_client_info": {
+          "package_name": "br.com.senaigo.mobile.mpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092608648438-chk2plefvm1epkbkksmorq3he96p9j4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rGjxq_Ghjg8F3EY5OP4XC-J_neJOXs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
